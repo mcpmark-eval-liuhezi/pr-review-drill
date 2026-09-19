@@ -1,2 +1,3 @@
 # pr-review-drill
-Disposable sandbox for demoing the pull-request review workflow
+
+Welcome to the hands-on GitHub PR review drill sandbox!
